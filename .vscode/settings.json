@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {},
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.quickSuggestions": null,
+  "terminal.integrated.automationShell.linux": "",
+  "powermode.customExplosions": [],
+  "java.home": "",
+  "editor.fontWeight": true,
+  "editor.tokenColorCustomizations": null,
+  "powermode.enabled": true,
+  "powermode.customCss": {}
+}
